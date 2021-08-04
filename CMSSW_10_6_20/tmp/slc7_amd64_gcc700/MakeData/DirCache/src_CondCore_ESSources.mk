@@ -1,0 +1,2 @@
+ALL_PACKAGES += CondCore/ESSources
+subdirs_src_CondCore_ESSources := src_CondCore_ESSources_bin src_CondCore_ESSources_doc src_CondCore_ESSources_interface src_CondCore_ESSources_plugins src_CondCore_ESSources_python src_CondCore_ESSources_src src_CondCore_ESSources_test

@@ -1,0 +1,2 @@
+ALL_PACKAGES += MelaAnalytics/EventContainer
+subdirs_src_MelaAnalytics_EventContainer := src_MelaAnalytics_EventContainer_interface src_MelaAnalytics_EventContainer_src

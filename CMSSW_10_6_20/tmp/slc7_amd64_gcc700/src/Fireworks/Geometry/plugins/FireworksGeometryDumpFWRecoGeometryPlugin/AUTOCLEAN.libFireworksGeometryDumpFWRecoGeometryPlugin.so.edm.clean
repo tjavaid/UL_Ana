@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc700/pluginFireworksGeometryDumpFWRecoGeometryPlugin.so lib/slc7_amd64_gcc700/FireworksGeometryDumpFWRecoGeometryPlugin.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc700

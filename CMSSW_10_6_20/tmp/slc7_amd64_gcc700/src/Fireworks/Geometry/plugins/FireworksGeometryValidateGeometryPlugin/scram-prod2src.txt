@@ -1,0 +1,1 @@
+FireworksGeometryValidateGeometryPlugin Fireworks/Geometry/plugins/ValidateGeometry.cc

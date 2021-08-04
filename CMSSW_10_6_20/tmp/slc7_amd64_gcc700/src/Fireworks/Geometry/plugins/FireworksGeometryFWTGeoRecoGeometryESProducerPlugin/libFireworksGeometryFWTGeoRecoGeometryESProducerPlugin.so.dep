@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc700/src/Fireworks/Geometry/plugins/FireworksGeometryFWTGeoRecoGeometryESProducerPlugin/FWTGeoRecoGeometryESProducerPlugin.cc.o: \
+ src/Fireworks/Geometry/plugins/FWTGeoRecoGeometryESProducerPlugin.cc \
+ src/Fireworks/Geometry/interface/FWTGeoRecoGeometryESProducer.h \
+

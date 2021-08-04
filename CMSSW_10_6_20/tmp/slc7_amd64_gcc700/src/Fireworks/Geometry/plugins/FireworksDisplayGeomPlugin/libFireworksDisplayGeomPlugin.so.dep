@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc700/src/Fireworks/Geometry/plugins/FireworksDisplayGeomPlugin/DisplayGeom.cc.o: \
+ src/Fireworks/Geometry/plugins/DisplayGeom.cc \
+ src/Fireworks/Geometry/interface/DisplayGeomRecord.h \
+

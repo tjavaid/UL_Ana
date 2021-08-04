@@ -1,0 +1,1 @@
+CommonToolsPileupAlgos_plugins CommonTools/PileupAlgos/plugins/SoftKillerProducer.cc CommonTools/PileupAlgos/plugins/PuppiPhoton.cc CommonTools/PileupAlgos/plugins/PuppiProducer.cc

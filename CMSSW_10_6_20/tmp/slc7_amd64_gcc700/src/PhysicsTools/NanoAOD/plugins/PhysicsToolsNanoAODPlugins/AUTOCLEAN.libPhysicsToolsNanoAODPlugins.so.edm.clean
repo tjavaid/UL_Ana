@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc700/pluginPhysicsToolsNanoAODPlugins.so lib/slc7_amd64_gcc700/PhysicsToolsNanoAODPlugins.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc700

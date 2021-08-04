@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Alignment
+subdirs_src_Alignment = src_Alignment_MillePedeAlignmentAlgorithm

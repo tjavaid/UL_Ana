@@ -1,0 +1,1 @@
+runtestRecoEgammaPhotonIdentification RecoEgamma/PhotonIdentification/test/runtestRecoEgammaPhotonIdentification.cpp

@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc700/src/Fireworks/Geometry/plugins/FireworksGeometryTGeoMgrFromDddPlugin/TGeoMgrFromDddPlugin.cc.o: \
+ src/Fireworks/Geometry/plugins/TGeoMgrFromDddPlugin.cc \
+ src/Fireworks/Geometry/interface/TGeoMgrFromDdd.h \
+

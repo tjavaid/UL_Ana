@@ -1,0 +1,13 @@
+tmp/slc7_amd64_gcc700/src/Fireworks/FWInterface/plugins/FireworksFWInterfacePlugin/FWTrackProxyBuilderFullFramework.cc.o: \
+ src/Fireworks/FWInterface/plugins/FWTrackProxyBuilderFullFramework.cc \
+
+tmp/slc7_amd64_gcc700/src/Fireworks/FWInterface/plugins/FireworksFWInterfacePlugin/FWTrackingParticleProxyBuilderFullFramework.cc.o: \
+ src/Fireworks/FWInterface/plugins/FWTrackingParticleProxyBuilderFullFramework.cc \
+
+tmp/slc7_amd64_gcc700/src/Fireworks/FWInterface/plugins/FireworksFWInterfacePlugin/FullFWPlugin.cc.o: \
+ src/Fireworks/FWInterface/plugins/FullFWPlugin.cc \
+ src/Fireworks/FWInterface/interface/FWFFService.h \
+ src/Fireworks/FWInterface/interface/FWFFHelper.h \
+ src/Fireworks/FWInterface/interface/FWFFLooper.h \
+ src/Fireworks/Geometry/interface/DisplayGeomRecord.h \
+

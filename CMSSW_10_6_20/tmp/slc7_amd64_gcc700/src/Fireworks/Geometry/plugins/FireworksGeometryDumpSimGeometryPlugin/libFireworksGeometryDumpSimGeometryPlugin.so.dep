@@ -1,0 +1,4 @@
+tmp/slc7_amd64_gcc700/src/Fireworks/Geometry/plugins/FireworksGeometryDumpSimGeometryPlugin/DumpSimGeometry.cc.o: \
+ src/Fireworks/Geometry/plugins/DumpSimGeometry.cc \
+ src/Fireworks/Geometry/interface/DisplayGeomRecord.h \
+

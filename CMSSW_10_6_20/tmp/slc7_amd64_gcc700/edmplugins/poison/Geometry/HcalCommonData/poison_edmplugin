@@ -1,0 +1,12 @@
+plugin-poisoned-GeometryHcalCommonDataPlugins.so HcalDDDRecConstantsESModule CMS%EDM%Framework%ESModule
+plugin-poisoned-GeometryHcalCommonDataPlugins.so HcalDDDRecConstantsESModule CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-GeometryHcalCommonDataPlugins.so HcalDDDSimConstantsESModule CMS%EDM%Framework%ESModule
+plugin-poisoned-GeometryHcalCommonDataPlugins.so HcalDDDSimConstantsESModule CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-GeometryHcalCommonDataPlugins.so HcalParametersESModule CMS%EDM%Framework%ESModule
+plugin-poisoned-GeometryHcalCommonDataPlugins.so HcalParametersESModule CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-testHcalParametersAnalyzer.so HcalParametersAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-testHcalParametersAnalyzer.so HcalParametersAnalyzer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-testHcalRecNumberingTester.so HcalRecNumberingTester CMS%EDM%Framework%Module
+plugin-poisoned-testHcalRecNumberingTester.so HcalRecNumberingTester CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-testHcalSimNumberingTester.so HcalSimNumberingTester CMS%EDM%Framework%Module
+plugin-poisoned-testHcalSimNumberingTester.so HcalSimNumberingTester CMS%EDM%Framework%ParameterSet%Description

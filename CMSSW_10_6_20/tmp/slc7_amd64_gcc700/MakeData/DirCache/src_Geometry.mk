@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Geometry
+subdirs_src_Geometry = src_Geometry_HGCalGeometry src_Geometry_HcalCommonData

@@ -1,0 +1,22 @@
+{ decls }
+namespace reco { class GsfElectron; }
+namespace edm { template <typename T> class Ptr; }
+template <typename T> class VersionedSelector;
+namespace pat { class Electron; }
+template <typename PhysObj> class MakeVersionedSelector;
+template <typename Collection, typename InPhysObj, typename OutPhysObj> class MakePtrFromCollection;
+template <typename T> class PrintVIDToString;
+
+[ libRecoEgammaElectronIdentification.so ]
+# List of selected classes
+class ElectronMVAEstimatorRun2
+class MakePtrFromCollection<vector<pat::Electron>,pat::Electron,pat::Electron>
+class MakePtrFromCollection<vector<pat::Electron>,pat::Electron,reco::GsfElectron>
+class MakePtrFromCollection<vector<reco::GsfElectron>,reco::GsfElectron,reco::GsfElectron>
+class MakeVersionedSelector<pat::Electron>
+class MakeVersionedSelector<reco::GsfElectron>
+class PrintVIDToString<pat::Electron>
+class PrintVIDToString<reco::GsfElectron>
+class VersionedSelector<edm::Ptr<pat::Electron> >
+class VersionedSelector<edm::Ptr<reco::GsfElectron> >
+header RecoEgamma/ElectronIdentification/interface/ElectronMVAEstimatorRun2.h

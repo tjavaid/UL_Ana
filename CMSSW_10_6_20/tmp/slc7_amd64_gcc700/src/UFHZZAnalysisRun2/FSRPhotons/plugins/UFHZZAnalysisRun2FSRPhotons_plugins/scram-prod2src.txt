@@ -1,0 +1,1 @@
+UFHZZAnalysisRun2FSRPhotons_plugins UFHZZAnalysisRun2/FSRPhotons/plugins/PhotonPFIsoCalculator.cc UFHZZAnalysisRun2/FSRPhotons/plugins/FSRPhotonProducer.cc

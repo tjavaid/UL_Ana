@@ -1,0 +1,3 @@
+tmp/slc7_amd64_gcc700/src/RecoEgamma/ElectronIdentification/test/RecoEgammaElectronIdentificationVIDExample/VIDUsageExample.cc.o: \
+ src/RecoEgamma/ElectronIdentification/test/VIDUsageExample.cc \
+

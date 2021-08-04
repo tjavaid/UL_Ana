@@ -1,0 +1,3 @@
+ALL_COMMONRULES += src_MelaAnalytics_CandidateLOCaster_test
+src_MelaAnalytics_CandidateLOCaster_test_parent := MelaAnalytics/CandidateLOCaster
+src_MelaAnalytics_CandidateLOCaster_test_INIT_FUNC += $$(eval $$(call CommonProductRules,src_MelaAnalytics_CandidateLOCaster_test,src/MelaAnalytics/CandidateLOCaster/test,TEST))

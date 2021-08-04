@@ -1,0 +1,7 @@
+tmp/slc7_amd64_gcc700/src/UFHZZAnalysisRun2/UFHZZ4LJetCorrector/plugins/UFHZZAnalysisRun2UFHZZ4LJetCorrectorAuto/CorrJetsProducer.cc.o: \
+ src/UFHZZAnalysisRun2/UFHZZ4LJetCorrector/plugins/CorrJetsProducer.cc \
+ src/PhysicsTools/PatAlgos/plugins/JetCorrFactorsProducer.h \
+
+tmp/slc7_amd64_gcc700/src/UFHZZAnalysisRun2/UFHZZ4LJetCorrector/plugins/UFHZZAnalysisRun2UFHZZ4LJetCorrectorAuto/PatJetReCorrector.cc.o: \
+ src/UFHZZAnalysisRun2/UFHZZ4LJetCorrector/plugins/PatJetReCorrector.cc \
+

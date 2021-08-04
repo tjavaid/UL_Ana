@@ -1,0 +1,4 @@
+[ libFireworksFWInterface.so ]
+# List of selected classes
+class FWPathsPopup
+header Fireworks/FWInterface/src/FWPathsPopup.h

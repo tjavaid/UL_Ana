@@ -1,0 +1,1 @@
+FireworksGeometryFWTGeoRecoGeometryESProducerPlugin Fireworks/Geometry/plugins/FWTGeoRecoGeometryESProducerPlugin.cc

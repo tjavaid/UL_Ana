@@ -1,0 +1,3 @@
+tmp/slc7_amd64_gcc700/src/CondCore/ESSources/test/ExEfficiencyByLabelAnalyzer/stubs/EfficiencyByLabelAnalyzer.cc.o: \
+ src/CondCore/ESSources/test/stubs/EfficiencyByLabelAnalyzer.cc \
+

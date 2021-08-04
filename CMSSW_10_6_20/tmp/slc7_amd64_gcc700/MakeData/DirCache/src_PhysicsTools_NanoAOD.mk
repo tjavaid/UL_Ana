@@ -1,0 +1,2 @@
+ALL_PACKAGES += PhysicsTools/NanoAOD
+subdirs_src_PhysicsTools_NanoAOD := src_PhysicsTools_NanoAOD_interface src_PhysicsTools_NanoAOD_plugins src_PhysicsTools_NanoAOD_python src_PhysicsTools_NanoAOD_test

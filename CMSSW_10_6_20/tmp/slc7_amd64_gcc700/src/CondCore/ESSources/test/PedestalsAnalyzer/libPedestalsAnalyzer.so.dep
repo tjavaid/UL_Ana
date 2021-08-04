@@ -1,0 +1,3 @@
+tmp/slc7_amd64_gcc700/src/CondCore/ESSources/test/PedestalsAnalyzer/stubs/PedestalsAnalyzer.cc.o: \
+ src/CondCore/ESSources/test/stubs/PedestalsAnalyzer.cc \
+

@@ -1,0 +1,10 @@
+plugin-poisoned-CondCoreESSourcesPlugins.so PoolDBESSource CMS%EDM%Framework%ESSource
+plugin-poisoned-CondCoreESSourcesPlugins.so PoolDBESSource CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-ExEfficiencyByLabelAnalyzer.so EfficiencyByLabelAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-ExEfficiencyByLabelAnalyzer.so EfficiencyByLabelAnalyzer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-NoisesAnalyzer.so NoisesAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-NoisesAnalyzer.so NoisesAnalyzer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-PedestalsAnalyzer.so PedestalsAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-PedestalsAnalyzer.so PedestalsAnalyzer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-PedestalsByLabelAnalyzer.so PedestalsByLabelAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-PedestalsByLabelAnalyzer.so PedestalsByLabelAnalyzer CMS%EDM%Framework%ParameterSet%Description

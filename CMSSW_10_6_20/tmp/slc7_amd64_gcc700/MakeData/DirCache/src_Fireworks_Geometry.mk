@@ -1,0 +1,2 @@
+ALL_PACKAGES += Fireworks/Geometry
+subdirs_src_Fireworks_Geometry := src_Fireworks_Geometry_doc src_Fireworks_Geometry_interface src_Fireworks_Geometry_macros src_Fireworks_Geometry_plugins src_Fireworks_Geometry_python src_Fireworks_Geometry_src

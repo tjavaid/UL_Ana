@@ -1,0 +1,1 @@
+testCaloSimHits SimG4CMS/Calo/test/EcalSimHitStudy.cc SimG4CMS/Calo/test/HitParentTest.cc SimG4CMS/Calo/test/HFPMTHitAnalyzer.cc SimG4CMS/Calo/test/CaloSimHitStudy.cc SimG4CMS/Calo/test/HOSimHitStudy.cc SimG4CMS/Calo/test/HcalSimHitDump.cc SimG4CMS/Calo/test/HcalTestNumberingTest.cc

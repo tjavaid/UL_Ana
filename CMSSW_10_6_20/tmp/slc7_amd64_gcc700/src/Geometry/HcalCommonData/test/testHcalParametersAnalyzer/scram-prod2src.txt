@@ -1,0 +1,1 @@
+testHcalParametersAnalyzer Geometry/HcalCommonData/test/HcalParametersAnalyzer.cc

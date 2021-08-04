@@ -1,0 +1,2 @@
+ALL_PACKAGES += Fireworks/FWInterface
+subdirs_src_Fireworks_FWInterface := src_Fireworks_FWInterface_plugins src_Fireworks_FWInterface_python src_Fireworks_FWInterface_scripts src_Fireworks_FWInterface_src

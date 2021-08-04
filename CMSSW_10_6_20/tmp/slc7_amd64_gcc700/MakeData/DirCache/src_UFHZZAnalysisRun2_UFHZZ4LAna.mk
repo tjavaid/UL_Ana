@@ -1,0 +1,2 @@
+ALL_PACKAGES += UFHZZAnalysisRun2/UFHZZ4LAna
+subdirs_src_UFHZZAnalysisRun2_UFHZZ4LAna := src_UFHZZAnalysisRun2_UFHZZ4LAna_src src_UFHZZAnalysisRun2_UFHZZ4LAna_python

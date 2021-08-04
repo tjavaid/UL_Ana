@@ -1,0 +1,7 @@
+{ decls }
+namespace pat {  }
+
+[ libPhysicsToolsPatUtils.so ]
+# List of selected classes
+class pat::DiObjectProxy
+header PhysicsTools/PatUtils/interface/PATDiObjectProxy.h

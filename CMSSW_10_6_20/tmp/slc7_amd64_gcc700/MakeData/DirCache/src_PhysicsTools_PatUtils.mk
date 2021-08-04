@@ -1,0 +1,2 @@
+ALL_PACKAGES += PhysicsTools/PatUtils
+subdirs_src_PhysicsTools_PatUtils := src_PhysicsTools_PatUtils_data src_PhysicsTools_PatUtils_interface src_PhysicsTools_PatUtils_plugins src_PhysicsTools_PatUtils_python src_PhysicsTools_PatUtils_src src_PhysicsTools_PatUtils_test

@@ -1,0 +1,6 @@
+tmp/slc7_amd64_gcc700/src/UFHZZAnalysisRun2/FSRPhotons/plugins/UFHZZAnalysisRun2FSRPhotons_plugins/PhotonPFIsoCalculator.cc.o: \
+ src/UFHZZAnalysisRun2/FSRPhotons/plugins/PhotonPFIsoCalculator.cc \
+
+tmp/slc7_amd64_gcc700/src/UFHZZAnalysisRun2/FSRPhotons/plugins/UFHZZAnalysisRun2FSRPhotons_plugins/FSRPhotonProducer.cc.o: \
+ src/UFHZZAnalysisRun2/FSRPhotons/plugins/FSRPhotonProducer.cc \
+

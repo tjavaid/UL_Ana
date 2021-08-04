@@ -1,0 +1,14 @@
+tmp/slc7_amd64_gcc700/src/CommonTools/PileupAlgos/src/CommonToolsPileupAlgos/PuppiContainer.cc.o: \
+ src/CommonTools/PileupAlgos/src/PuppiContainer.cc \
+ src/CommonTools/PileupAlgos/interface/PuppiContainer.h \
+ src/CommonTools/PileupAlgos/interface/PuppiAlgo.h \
+ src/CommonTools/PileupAlgos/interface/PuppiCandidate.h \
+ src/CommonTools/PileupAlgos/interface/RecoObj.h \
+
+tmp/slc7_amd64_gcc700/src/CommonTools/PileupAlgos/src/CommonToolsPileupAlgos/PuppiAlgo.cc.o: \
+ src/CommonTools/PileupAlgos/src/PuppiAlgo.cc \
+ src/CommonTools/PileupAlgos/interface/PuppiAlgo.h \
+ src/CommonTools/PileupAlgos/interface/PuppiCandidate.h \
+ src/CommonTools/PileupAlgos/interface/PuppiContainer.h \
+ src/CommonTools/PileupAlgos/interface/RecoObj.h \
+

@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=CondCore
+subdirs_src_CondCore = src_CondCore_ESSources

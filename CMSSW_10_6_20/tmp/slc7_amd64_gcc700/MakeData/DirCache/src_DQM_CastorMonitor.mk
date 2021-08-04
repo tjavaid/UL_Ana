@@ -1,0 +1,2 @@
+ALL_PACKAGES += DQM/CastorMonitor
+subdirs_src_DQM_CastorMonitor := src_DQM_CastorMonitor_doc src_DQM_CastorMonitor_python src_DQM_CastorMonitor_src

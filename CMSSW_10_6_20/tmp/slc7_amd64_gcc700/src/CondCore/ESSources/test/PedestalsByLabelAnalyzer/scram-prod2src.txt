@@ -1,0 +1,1 @@
+PedestalsByLabelAnalyzer CondCore/ESSources/test/stubs/PedestalsByLabelAnalyzer.cc

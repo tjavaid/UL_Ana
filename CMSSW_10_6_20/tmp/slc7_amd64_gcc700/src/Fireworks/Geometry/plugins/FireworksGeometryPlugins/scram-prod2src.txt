@@ -1,0 +1,1 @@
+FireworksGeometryPlugins Fireworks/Geometry/plugins/EveDisplayPlugin.cc

@@ -1,0 +1,6 @@
+tmp/slc7_amd64_gcc700/src/UFHZZAnalysisRun2/KalmanMuonCalibrationsProducer/plugins/UFHZZAnalysisRun2KalmanMuonCalibrationsProducerAuto/KalmanMuonCalibrationsProducer.cc.o: \
+ src/UFHZZAnalysisRun2/KalmanMuonCalibrationsProducer/plugins/KalmanMuonCalibrationsProducer.cc \
+ src/KaMuCa/Calibration/interface/KalmanMuonCalibrator.h \
+ src/UFHZZAnalysisRun2/KalmanMuonCalibrationsProducer/src/RoccoR.cc \
+ src/UFHZZAnalysisRun2/KalmanMuonCalibrationsProducer/interface/RoccoR.h \
+

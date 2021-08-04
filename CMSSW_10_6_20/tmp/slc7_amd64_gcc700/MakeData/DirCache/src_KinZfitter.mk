@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=KinZfitter
+subdirs_src_KinZfitter = src_KinZfitter_KinZfitter src_KinZfitter_HelperFunction

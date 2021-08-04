@@ -1,0 +1,6 @@
+plugin-poisoned-CommonToolsPileupAlgos_plugins.so PuppiPhoton CMS%EDM%Framework%Module
+plugin-poisoned-CommonToolsPileupAlgos_plugins.so PuppiPhoton CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-CommonToolsPileupAlgos_plugins.so PuppiProducer CMS%EDM%Framework%Module
+plugin-poisoned-CommonToolsPileupAlgos_plugins.so PuppiProducer CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-CommonToolsPileupAlgos_plugins.so SoftKillerProducer CMS%EDM%Framework%Module
+plugin-poisoned-CommonToolsPileupAlgos_plugins.so SoftKillerProducer CMS%EDM%Framework%ParameterSet%Description

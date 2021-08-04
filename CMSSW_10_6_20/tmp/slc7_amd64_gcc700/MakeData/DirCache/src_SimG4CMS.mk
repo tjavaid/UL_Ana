@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=SimG4CMS
+subdirs_src_SimG4CMS = src_SimG4CMS_Calo src_SimG4CMS_Forward

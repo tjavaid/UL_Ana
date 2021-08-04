@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=Fireworks
+subdirs_src_Fireworks = src_Fireworks_FWInterface src_Fireworks_Geometry

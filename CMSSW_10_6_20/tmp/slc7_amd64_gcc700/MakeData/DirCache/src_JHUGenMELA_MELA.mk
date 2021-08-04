@@ -1,0 +1,2 @@
+ALL_PACKAGES += JHUGenMELA/MELA
+subdirs_src_JHUGenMELA_MELA := src_JHUGenMELA_MELA_COLLIER src_JHUGenMELA_MELA_data src_JHUGenMELA_MELA_fortran src_JHUGenMELA_MELA_interface src_JHUGenMELA_MELA_python src_JHUGenMELA_MELA_src src_JHUGenMELA_MELA_test

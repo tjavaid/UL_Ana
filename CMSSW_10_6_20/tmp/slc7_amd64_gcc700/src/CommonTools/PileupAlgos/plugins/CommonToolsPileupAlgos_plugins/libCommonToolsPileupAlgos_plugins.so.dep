@@ -1,0 +1,15 @@
+tmp/slc7_amd64_gcc700/src/CommonTools/PileupAlgos/plugins/CommonToolsPileupAlgos_plugins/SoftKillerProducer.cc.o: \
+ src/CommonTools/PileupAlgos/plugins/SoftKillerProducer.cc \
+
+tmp/slc7_amd64_gcc700/src/CommonTools/PileupAlgos/plugins/CommonToolsPileupAlgos_plugins/PuppiPhoton.cc.o: \
+ src/CommonTools/PileupAlgos/plugins/PuppiPhoton.cc \
+ src/CommonTools/PileupAlgos/plugins/PuppiPhoton.h \
+
+tmp/slc7_amd64_gcc700/src/CommonTools/PileupAlgos/plugins/CommonToolsPileupAlgos_plugins/PuppiProducer.cc.o: \
+ src/CommonTools/PileupAlgos/plugins/PuppiProducer.cc \
+ src/CommonTools/PileupAlgos/plugins/PuppiProducer.h \
+ src/CommonTools/PileupAlgos/interface/PuppiContainer.h \
+ src/CommonTools/PileupAlgos/interface/PuppiAlgo.h \
+ src/CommonTools/PileupAlgos/interface/PuppiCandidate.h \
+ src/CommonTools/PileupAlgos/interface/RecoObj.h
+

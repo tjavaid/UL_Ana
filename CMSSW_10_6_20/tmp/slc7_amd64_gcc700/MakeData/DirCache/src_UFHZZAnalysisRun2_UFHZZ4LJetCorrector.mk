@@ -1,0 +1,2 @@
+ALL_PACKAGES += UFHZZAnalysisRun2/UFHZZ4LJetCorrector
+subdirs_src_UFHZZAnalysisRun2_UFHZZ4LJetCorrector := src_UFHZZAnalysisRun2_UFHZZ4LJetCorrector_plugins

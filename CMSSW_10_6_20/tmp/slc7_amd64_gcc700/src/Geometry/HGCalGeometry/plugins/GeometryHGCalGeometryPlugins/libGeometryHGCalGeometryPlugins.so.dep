@@ -1,0 +1,14 @@
+tmp/slc7_amd64_gcc700/src/Geometry/HGCalGeometry/plugins/GeometryHGCalGeometryPlugins/moduleDB.cc.o: \
+ src/Geometry/HGCalGeometry/plugins/moduleDB.cc \
+ src/Geometry/HGCalGeometry/interface/HGCalGeometry.h \
+
+tmp/slc7_amd64_gcc700/src/Geometry/HGCalGeometry/plugins/GeometryHGCalGeometryPlugins/HGCalGeometryESProducer.cc.o: \
+ src/Geometry/HGCalGeometry/plugins/HGCalGeometryESProducer.cc \
+ src/Geometry/HGCalGeometry/interface/HGCalGeometry.h \
+ src/Geometry/HGCalGeometry/interface/HGCalGeometryLoader.h
+
+tmp/slc7_amd64_gcc700/src/Geometry/HGCalGeometry/plugins/GeometryHGCalGeometryPlugins/FastTimeGeometryESProducer.cc.o: \
+ src/Geometry/HGCalGeometry/plugins/FastTimeGeometryESProducer.cc \
+ src/Geometry/HGCalGeometry/interface/FastTimeGeometry.h \
+ src/Geometry/HGCalGeometry/interface/FastTimeGeometryLoader.h
+

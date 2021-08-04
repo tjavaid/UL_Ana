@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc700/pluginUFHZZAnalysisRun2UFHZZ4LAna.so lib/slc7_amd64_gcc700/UFHZZAnalysisRun2UFHZZ4LAna.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc700

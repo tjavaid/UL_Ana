@@ -1,0 +1,11 @@
+{ decls }
+namespace HTXS {  }
+namespace edm {  }
+namespace HTXS { class HiggsClassification; }
+namespace edm { template <typename T> class Wrapper; }
+
+[ libSimDataFormatsHTXS.so ]
+# List of selected classes
+class HTXS::HiggsClassification
+class edm::Wrapper<HTXS::HiggsClassification>
+header SimDataFormats/HTXS/interface/HiggsTemplateCrossSections.h

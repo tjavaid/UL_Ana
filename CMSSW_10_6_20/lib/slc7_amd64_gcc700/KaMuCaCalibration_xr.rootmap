@@ -1,0 +1,4 @@
+[ libKaMuCaCalibration.so ]
+# List of selected classes
+class KalmanMuonCalibrator
+header KaMuCa/Calibration/interface/KalmanMuonCalibrator.h

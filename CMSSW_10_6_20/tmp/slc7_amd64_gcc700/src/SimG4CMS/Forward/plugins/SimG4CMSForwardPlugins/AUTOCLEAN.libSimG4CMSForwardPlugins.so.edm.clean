@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/slc7_amd64_gcc700/pluginSimG4CMSForwardPlugins.so lib/slc7_amd64_gcc700/SimG4CMSForwardPlugins.edmplugin
+90:edmPluginRefresh lib/slc7_amd64_gcc700

@@ -1,0 +1,2 @@
+ALL_PACKAGES += Configuration/Applications
+subdirs_src_Configuration_Applications := src_Configuration_Applications_python src_Configuration_Applications_scripts

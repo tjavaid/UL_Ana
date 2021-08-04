@@ -1,0 +1,2 @@
+ALL_PACKAGES += CommonTools/PileupAlgos
+subdirs_src_CommonTools_PileupAlgos := src_CommonTools_PileupAlgos_plugins src_CommonTools_PileupAlgos_python src_CommonTools_PileupAlgos_src src_CommonTools_PileupAlgos_test

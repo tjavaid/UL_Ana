@@ -1,0 +1,2 @@
+ALL_PACKAGES += Geometry/HcalCommonData
+subdirs_src_Geometry_HcalCommonData := src_Geometry_HcalCommonData_interface src_Geometry_HcalCommonData_plugins src_Geometry_HcalCommonData_python src_Geometry_HcalCommonData_src src_Geometry_HcalCommonData_test

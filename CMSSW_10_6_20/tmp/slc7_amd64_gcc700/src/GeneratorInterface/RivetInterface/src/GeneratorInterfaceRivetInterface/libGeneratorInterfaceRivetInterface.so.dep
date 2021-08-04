@@ -1,0 +1,7 @@
+tmp/slc7_amd64_gcc700/src/GeneratorInterface/RivetInterface/src/GeneratorInterfaceRivetInterface/CMS_2013_I1224539_DIJET.cc.o: \
+ src/GeneratorInterface/RivetInterface/src/CMS_2013_I1224539_DIJET.cc \
+
+tmp/slc7_amd64_gcc700/src/GeneratorInterface/RivetInterface/src/GeneratorInterfaceRivetInterface/HiggsTemplateCrossSections.cc.o: \
+ src/GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc \
+ src/SimDataFormats/HTXS/interface/HiggsTemplateCrossSections.h \
+

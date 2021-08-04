@@ -1,0 +1,1 @@
+FireworksFWInterfacePlugin Fireworks/FWInterface/plugins/FWTrackProxyBuilderFullFramework.cc Fireworks/FWInterface/plugins/FWTrackingParticleProxyBuilderFullFramework.cc Fireworks/FWInterface/plugins/FullFWPlugin.cc

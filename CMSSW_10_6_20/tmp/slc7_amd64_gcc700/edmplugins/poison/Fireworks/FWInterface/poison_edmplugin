@@ -1,0 +1,7 @@
+plugin-poisoned-FireworksFWInterfacePlugin.so FWFFHelper CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-FireworksFWInterfacePlugin.so FWFFHelper CMS%EDM%Framework%Service
+plugin-poisoned-FireworksFWInterfacePlugin.so FWFFLooper CMS%EDM%Framework%EDLooper
+plugin-poisoned-FireworksFWInterfacePlugin.so FWFFService CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-FireworksFWInterfacePlugin.so FWFFService CMS%EDM%Framework%Service
+plugin-poisoned-FireworksFWInterfacePlugin.so St6vectorIN4reco5TrackESaIS1_EE_@TracksTrajectory@1039#FWTrackProxyBuilderFullFramework cmsShow%FWProxyBuilder
+plugin-poisoned-FireworksFWInterfacePlugin.so simple#16TrackingParticle_@TrackingParticleWithPSimHits@1039#FWTrackingParticleProxyBuilderFullFramework cmsShow%FWProxyBuilder

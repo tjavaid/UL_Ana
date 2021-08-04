@@ -1,0 +1,20 @@
+{ decls }
+namespace reco { class Photon; }
+namespace edm { template <typename T> class Ptr; }
+template <typename T> class VersionedSelector;
+namespace pat { class Photon; }
+template <typename PhysObj> class MakeVersionedSelector;
+template <typename Collection, typename InPhysObj, typename OutPhysObj> class MakePtrFromCollection;
+template <typename T> class PrintVIDToString;
+
+[ libRecoEgammaPhotonIdentification.so ]
+# List of selected classes
+class MakePtrFromCollection<vector<pat::Photon>,pat::Photon,pat::Photon>
+class MakePtrFromCollection<vector<pat::Photon>,pat::Photon,reco::Photon>
+class MakePtrFromCollection<vector<reco::Photon>,reco::Photon,reco::Photon>
+class MakeVersionedSelector<pat::Photon>
+class MakeVersionedSelector<reco::Photon>
+class PrintVIDToString<pat::Photon>
+class PrintVIDToString<reco::Photon>
+class VersionedSelector<edm::Ptr<pat::Photon> >
+class VersionedSelector<edm::Ptr<reco::Photon> >

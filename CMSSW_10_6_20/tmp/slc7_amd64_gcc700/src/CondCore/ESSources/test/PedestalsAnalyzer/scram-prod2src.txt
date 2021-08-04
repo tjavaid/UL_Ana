@@ -1,0 +1,1 @@
+PedestalsAnalyzer CondCore/ESSources/test/stubs/PedestalsAnalyzer.cc

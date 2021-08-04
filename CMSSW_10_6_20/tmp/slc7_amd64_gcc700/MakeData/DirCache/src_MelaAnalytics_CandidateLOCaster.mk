@@ -1,0 +1,2 @@
+ALL_PACKAGES += MelaAnalytics/CandidateLOCaster
+subdirs_src_MelaAnalytics_CandidateLOCaster := src_MelaAnalytics_CandidateLOCaster_src src_MelaAnalytics_CandidateLOCaster_test

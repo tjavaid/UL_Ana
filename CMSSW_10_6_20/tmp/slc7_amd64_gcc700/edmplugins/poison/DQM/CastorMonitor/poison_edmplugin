@@ -1,0 +1,2 @@
+plugin-poisoned-DQMCastorMonitor.so CastorMonitorModule CMS%EDM%Framework%Module
+plugin-poisoned-DQMCastorMonitor.so CastorMonitorModule CMS%EDM%Framework%ParameterSet%Description

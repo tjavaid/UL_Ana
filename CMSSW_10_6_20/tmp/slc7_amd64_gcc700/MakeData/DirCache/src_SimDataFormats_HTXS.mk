@@ -1,0 +1,2 @@
+ALL_PACKAGES += SimDataFormats/HTXS
+subdirs_src_SimDataFormats_HTXS := src_SimDataFormats_HTXS_interface src_SimDataFormats_HTXS_src

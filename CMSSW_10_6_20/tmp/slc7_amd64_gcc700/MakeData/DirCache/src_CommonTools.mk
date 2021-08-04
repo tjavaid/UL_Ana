@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=CommonTools
+subdirs_src_CommonTools = src_CommonTools_PileupAlgos

@@ -1,0 +1,2 @@
+ALL_PACKAGES += UFHZZAnalysisRun2/FSRPhotons
+subdirs_src_UFHZZAnalysisRun2_FSRPhotons := src_UFHZZAnalysisRun2_FSRPhotons_plugins src_UFHZZAnalysisRun2_FSRPhotons_python

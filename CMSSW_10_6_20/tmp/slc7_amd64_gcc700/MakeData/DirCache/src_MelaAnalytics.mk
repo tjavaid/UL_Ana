@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=MelaAnalytics
+subdirs_src_MelaAnalytics = src_MelaAnalytics_CandidateLOCaster src_MelaAnalytics_EventContainer src_MelaAnalytics_GenericMEComputer

@@ -1,0 +1,5 @@
+tmp/slc7_amd64_gcc700/src/Fireworks/Geometry/plugins/FireworksGeometryDumpFWRecoGeometryPlugin/DumpFWRecoGeometry.cc.o: \
+ src/Fireworks/Geometry/plugins/DumpFWRecoGeometry.cc \
+ src/Fireworks/Geometry/interface/FWRecoGeometry.h \
+ src/Fireworks/Geometry/interface/FWRecoGeometryRecord.h \
+

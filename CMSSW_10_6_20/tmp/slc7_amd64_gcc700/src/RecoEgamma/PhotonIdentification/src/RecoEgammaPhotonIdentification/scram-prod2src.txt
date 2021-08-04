@@ -1,0 +1,1 @@
+RecoEgammaPhotonIdentification RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc RecoEgamma/PhotonIdentification/src/PhotonMIPHaloTagger.cc RecoEgamma/PhotonIdentification/src/PFPhotonIsolationCalculator.cc RecoEgamma/PhotonIdentification/src/CutBasedPhotonIDAlgo.cc RecoEgamma/PhotonIdentification/src/classes.h RecoEgamma/PhotonIdentification/src/classes_def.xml

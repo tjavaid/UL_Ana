@@ -1,0 +1,1 @@
+FireworksGeometryTGeoMgrFromDddPlugin Fireworks/Geometry/plugins/TGeoMgrFromDddPlugin.cc

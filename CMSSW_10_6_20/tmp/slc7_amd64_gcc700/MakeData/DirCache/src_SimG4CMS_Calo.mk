@@ -1,0 +1,2 @@
+ALL_PACKAGES += SimG4CMS/Calo
+subdirs_src_SimG4CMS_Calo := src_SimG4CMS_Calo_data src_SimG4CMS_Calo_interface src_SimG4CMS_Calo_macros src_SimG4CMS_Calo_plugins src_SimG4CMS_Calo_python src_SimG4CMS_Calo_src src_SimG4CMS_Calo_test

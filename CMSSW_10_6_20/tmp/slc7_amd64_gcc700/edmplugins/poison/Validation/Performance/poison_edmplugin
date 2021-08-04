@@ -1,0 +1,4 @@
+plugin-poisoned-SimDigiDumper.so SimDigiDumper CMS%EDM%Framework%Module
+plugin-poisoned-SimDigiDumper.so SimDigiDumper CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-ValidationPerformance.so PerformanceAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-ValidationPerformance.so PerformanceAnalyzer CMS%EDM%Framework%ParameterSet%Description

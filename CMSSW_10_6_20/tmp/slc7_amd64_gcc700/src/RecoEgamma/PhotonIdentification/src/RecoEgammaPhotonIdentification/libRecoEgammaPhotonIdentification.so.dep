@@ -1,0 +1,20 @@
+tmp/slc7_amd64_gcc700/src/RecoEgamma/PhotonIdentification/src/RecoEgammaPhotonIdentification/a/RecoEgammaPhotonIdentification_xr.cc: \
+ src/RecoEgamma/PhotonIdentification/src/classes.h \
+ src/RecoEgamma/PhotonIdentification/src/classes.h \
+
+tmp/slc7_amd64_gcc700/src/RecoEgamma/PhotonIdentification/src/RecoEgammaPhotonIdentification/PhotonIsolationCalculator.cc.o: \
+ src/RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc \
+ src/RecoEgamma/PhotonIdentification/interface/PhotonIsolationCalculator.h \
+
+tmp/slc7_amd64_gcc700/src/RecoEgamma/PhotonIdentification/src/RecoEgammaPhotonIdentification/PhotonMIPHaloTagger.cc.o: \
+ src/RecoEgamma/PhotonIdentification/src/PhotonMIPHaloTagger.cc \
+ src/RecoEgamma/PhotonIdentification/interface/PhotonMIPHaloTagger.h \
+
+tmp/slc7_amd64_gcc700/src/RecoEgamma/PhotonIdentification/src/RecoEgammaPhotonIdentification/PFPhotonIsolationCalculator.cc.o: \
+ src/RecoEgamma/PhotonIdentification/src/PFPhotonIsolationCalculator.cc \
+ src/RecoEgamma/PhotonIdentification/interface/PFPhotonIsolationCalculator.h \
+
+tmp/slc7_amd64_gcc700/src/RecoEgamma/PhotonIdentification/src/RecoEgammaPhotonIdentification/CutBasedPhotonIDAlgo.cc.o: \
+ src/RecoEgamma/PhotonIdentification/src/CutBasedPhotonIDAlgo.cc \
+ src/RecoEgamma/PhotonIdentification/interface/CutBasedPhotonIDAlgo.h \
+
